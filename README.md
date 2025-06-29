@@ -108,11 +108,6 @@ laplace_circuit_solver/
 * Symbolic Laplace simplification enhancements
 * Export results as CSV or LaTeX tables
 
-## ✍️ Contributors
-
-* **Sandeep** – Incidence matrix, Laplace solver
-* **Yesh** – Inverse Laplace transforms, numerical evaluation, plotting
-
 ## 📘 References
 
 * SymPy Documentation
